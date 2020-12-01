@@ -1,8 +1,4 @@
 day la dong thu 2
 add: dang ky su thay doi nay vao index
-<<<<<<< HEAD
 call me if you want:123
-=======
-call me: 123456
 
->>>>>>> 8ad584dd018f66c019de6dc6b2a70e60eda8c5ff
